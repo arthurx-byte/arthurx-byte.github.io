@@ -9,6 +9,8 @@ const jump = () => {
     }, 500);
 }
 
+document.addEventListener('touchstart',jump);
+
 const loop = setInterval(() => {
 
     console.log('loop')
