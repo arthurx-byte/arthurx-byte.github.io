@@ -22,4 +22,3 @@ git commit -M "<comentario do código>"
 
 # 8- Envia seu codigo para o repositorio github online
 git push -u origin <nome da sua branch>
-
