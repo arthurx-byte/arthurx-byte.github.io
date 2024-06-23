@@ -34,7 +34,7 @@ background: linear-gradient(#87cee8, #e0f6ff);
 .clouds {
     position: absolute;
     width: 350px;
-    animation: clouds-animation 20s infinite linear
+    animation: clouds-animation 10s infinite linear
 }
 
 @keyframes pipe-animation {
@@ -43,7 +43,7 @@ background: linear-gradient(#87cee8, #e0f6ff);
     }
 
     to {
-        right: 100%;
+        right: 200%;
     }
 }
 
