@@ -26,11 +26,12 @@ const loop = setInterval(() => {
         mario.style.animation = 'none';
         mario.style.bottom = `${marioPosition}px`;
 
-        mario.src = './imagens/game-over.png';
-        mario.style.width = '75px'
-        mario.style.marginLeft = '50px'
+        mario.src = './imagens/ichigo-morto.gif';
+        mario.style.width = '250px'
+        mario.style.marginLeft = '-25px'
 
         clearInterval(loop);
+        
     }
 
 }, 100);

@@ -17,7 +17,7 @@ background: linear-gradient(#87cee8, #e0f6ff);
 .pipe {
     position: absolute;
     bottom: 0;
-    width: 80px;
+    width: 100px;
     animation: pipe-animation 5s infinite linear;
 }
 
@@ -33,7 +33,7 @@ background: linear-gradient(#87cee8, #e0f6ff);
 
 .clouds {
     position: absolute;
-    width: 550px;
+    width: 350px;
     animation: clouds-animation 20s infinite linear
 }
 
